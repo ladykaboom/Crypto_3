@@ -1,0 +1,19 @@
+﻿  playstream.cpp
+c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\szyfrowanie.c(110): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\szyfrowanie.c(112): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\szyfrowanie.c(141): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\szyfrowanie.c(149): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\szyfrowanie.c(134): warning C4101: 'bytes_written22': unreferenced local variable
+c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\szyfrowanie.c(248): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+  c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\szyfrowanie.c(248): note: this argument is used as a buffer size
+c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\szyfrowanie.c(259): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+  c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\szyfrowanie.c(259): note: this argument is used as a buffer size
+c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\szyfrowanie.c(316): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+  c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\szyfrowanie.c(316): note: this argument is used as a buffer size
+c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\playstream.cpp(82): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+  c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\playstream.cpp(82): note: this argument is used as a buffer size
+c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\playstream.cpp(93): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+  c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\playstream.cpp(93): note: this argument is used as a buffer size
+c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\playstream.cpp(284): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+  c:\users\lasek\documents\visual studio 2015\projects\fmodtry\fmodtry\playstream.cpp(284): note: this argument is used as a buffer size
+  FMODtry.vcxproj -> C:\Users\Lasek\Documents\Visual Studio 2015\Projects\FMODtry\x64\Debug\FMODtry.exe
